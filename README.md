@@ -22,13 +22,13 @@ Now that I built this application, I have a much better understanding of how MyS
 4. Type in your personal MySQL password
 5. Then type "source db/schema.sql" and press enter
 6. Exit MySQL by typing "quit" and pressing enter
-7. Then type "npm start" in the terminal
-8. Finally, proceed to answer the prompts and questions however you see fit.
+7. Then run "npm i" in the terminal 
+8. Then run "npm start" in the terminal
+9. Finally, proceed to answer the prompts and questions however you see fit.
 
 ## Usage
 
-![Home Page](images/noteBooker1.png)
-![Notes Page](images/noteBooker2.png)
+https://github.com/Lorenzo-Olivar/E-Bases/assets/131014446/77b9247f-59d6-4099-aeff-42269efa17f1
 
 ## Credits
 
